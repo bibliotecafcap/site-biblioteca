@@ -1,12 +1,12 @@
 {
   "buttons": [
     {
-      "id": 1,
+      "id": 12,
       "title": "Formulário de cadastro da Biblioteca",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWdfrrpPsY26-RheK2tqWhFgxDKZGdPw539aDiHeON-pqDlQ/viewform?usp=dialog",
       "icon": "img/ico/ico1.png",
       "description": "Preencha este formulário para se cadastrar no sistema Pergamum e ter acesso aos serviços da biblioteca. Lembre-se, o cadastro só está disponível através do e-mail institucional.",
-      "order": 1
+      "order": 12
     },
     {
       "id": 2,
