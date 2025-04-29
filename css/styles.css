@@ -136,8 +136,9 @@ p {
     transform: translateY(0);
     opacity: 1;
 }
+    
 
-/* Controle de Colunas */
+/* Controle de Colunas 
 .btn-wrapper:hover ~ .btn-wrapper:nth-child(even) {
     transform: none;
 }
@@ -146,6 +147,7 @@ p {
 .btn-wrapper:nth-child(even):hover ~ .btn-wrapper:nth-child(even) {
     transform: translateY(var(--desc-height));
 }
+    */
 
 /* Ícones dos Botões */
 .btn-icon {
