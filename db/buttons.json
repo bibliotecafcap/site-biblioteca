@@ -22,7 +22,7 @@
       "url": "https://dliportal.zbra.com.br/Login.aspx?key=UPE",
       "icon": "img/ico/ico2.png",
       "description": "Acesse sua conta na biblioteca virtual. Utilize seu e-mail institucional e a senha padrão da NBID",
-      "order": 3
+      "order": 5
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "url": "https://plataforma.bvirtual.com.br/Account/Login?redirectUrl=%2F",
       "icon": "img/ico/ico3.png",
       "description": "Acesso a milhares de livros digitais e recursos educacionais online utilizando seu e-mail institucional e a senha que você criou.",
-      "order": 4
+      "order": 6
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "url": "https://www.edupe.upe.br/index.php/catalogo/ebooks-gratuitos",
       "icon": "img/ico/ico4.png",
       "description": "Explore as publicações acadêmicas e e-books gratuitos da Editora da Universidade de Pernambuco.",
-      "order": 5
+      "order": 3
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "url": "https://docs.google.com/forms/d/e/1FAIpQLScOLA5FI1ukbKF04oDPnzO75LQ9nCuUjMawmykWda_SvadWKg/viewform",
       "icon": "img/ico/ico10.png",
       "description": "Solicite seu acesso às plataformas de livros digitais. Lembre-se de utilizar seu e-mail institucional na solicitação",
-      "order": 6
+      "order": 4
     },
     {
       "id": 7,
