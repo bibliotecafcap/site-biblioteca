@@ -79,6 +79,22 @@
       "icon": "img/ico/ico8.png",
       "description": "Um dos maiores acervos bibliográficos do mundo, incluindo artigos, teses, patentes e trabalhos publicados. Obtenha o conteúdo restrito, assinado pela instituição (UPE), através do Acesso CAFe, com CPF e senha do SIG@ UPE",
       "order": 10
+    },
+    {
+      "id": 11,
+      "title": "Guia para normalização de trabalhos acadêmicos",
+      "url": "#",
+      "icon": "img/ico/ico7.png",
+      "description": "Em desenvolvimento.",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "title": "Normas gerais de uso da Biblioteca FCAP (Professor Leucio Lemos)",
+      "url": "#",
+      "icon": "img/ico/ico7.png",
+      "description": "Em desenvolvimento.",
+      "order": 12
     }
   ]
 }
