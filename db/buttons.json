@@ -5,7 +5,7 @@
       "title": "Formulário de cadastro da Biblioteca",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWdfrrpPsY26-RheK2tqWhFgxDKZGdPw539aDiHeON-pqDlQ/viewform?usp=dialog",
       "icon": "img/ico/ico1.png",
-      "description": "Preencha este formulário para se cadastrar no sistema Pergamum e ter acesso aos serviços da biblioteca. Lembre-se, o cadastro só está disponível através do e-mail institucional.",
+      "description": "Preencha este formulário para se cadastrar no sistema Pergamum e ter acesso aos serviços da biblioteca. Lembre-se, o formulário só está disponível através do e-mail institucional.",
       "order": 1
     },
     {
@@ -13,7 +13,7 @@
       "title": "Acesso a plataforma Pergamum da Biblioteca",
       "url": "https://pergamum.upe.br",
       "icon": "img/ico/ico9.png",
-      "description": "Acesse a plataforma Pergamum para a pesquisa de livros e renovação de livros emprestados.",
+      "description": "Acesse a plataforma Pergamum para a pesquisa de livros e com seu login, ter acesso a seus empréstimos, renovações, débitos e cadastro de suas áreas de interesse.",
       "order": 2
     },
     {
@@ -21,7 +21,7 @@
       "title": "Minha Biblioteca",
       "url": "https://dliportal.zbra.com.br/Login.aspx?key=UPE",
       "icon": "img/ico/ico2.png",
-      "description": "Acesse sua conta na biblioteca virtual. Utilize seu e-mail institucional e a senha padrão da NBID",
+      "description": "Acesse a plataforma Minha Biblioteca utilizandoseu e-mail institucional e a senha padrão.",
       "order": 5
     },
     {
@@ -61,7 +61,7 @@
       "title": "Revista dos Tribunais",
       "url": "http://upe.br/anexos/fcap/publicacao.php",
       "icon": "img/ico/ico6.png",
-      "description": "Acesso a artigos e publicações jurídicas da Revista dos Tribunais.",
+      "description": "Acesso a artigos e publicações jurídicas da Revista dos Tribunais online.",
       "order": 8
     },
     {
@@ -77,7 +77,7 @@
       "title": "Portal de Periódicos CAPES",
       "url": "https://www-periodicos-capes-gov-br.ez371.periodicos.capes.gov.br/index.php",
       "icon": "img/ico/ico8.png",
-      "description": "Acesso a milhares de periódicos científicos através do portal CAPES.",
+      "description": "Um dos maiores acervos bibliográficos do mundo, incluindo artigos, teses, patentes e trabalhos publicados. Obtenha o conteúdo restrito, assinado pela instituição (UPE), através do Acesso CAFe, com CPF e senha do SIG@ UPE",
       "order": 10
     }
   ]
