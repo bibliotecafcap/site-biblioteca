@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Minha Biblioteca",
-      "url": "https://dliportal.zbra.com.br/Login.aspx?key=UPE",
+      "url": "https://sso.minhabiblioteca.com.br/Login.aspx?key=UPE",
       "icon": "img/ico/ico2.png",
       "description": "Acesse a plataforma Minha Biblioteca utilizandoseu e-mail institucional e a senha padrão.",
       "order": 5
