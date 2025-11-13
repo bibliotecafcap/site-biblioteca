@@ -83,17 +83,17 @@
     {
       "id": 11,
       "title": "Guia para normalização de trabalhos acadêmicos",
-      "url": "#",
+      "url": "https://www.upe.br/petrolina/wp-content/uploads/2025/08/NBID-UPE-Guia-para-normaliza%C3%A7%C3%A3o-de-trabalhos-acad%C3%AAmicos-4-ed.pdf",
       "icon": "img/ico/ico7.png",
-      "description": "Em desenvolvimento.",
+      "description": "Padronização na produção dos trabalhos acadêmicos.",
       "order": 11
     },
     {
       "id": 12,
       "title": "Normas gerais de uso da Biblioteca FCAP (Professor Leucio Lemos)",
-      "url": "#",
+      "url": "https://www.upe.br/petrolina/wp-content/uploads/2025/10/NBID-UPE-Normas-gerais-de-uso-das-bibliotecas-da-UPE.pdf",
       "icon": "img/ico/ico7.png",
-      "description": "Em desenvolvimento.",
+      "description": "Orientar sobre o uso dos recursos e serviços informacionais das bibliotecas da UPE",
       "order": 12
     }
   ]
